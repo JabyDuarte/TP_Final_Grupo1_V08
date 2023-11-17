@@ -1,0 +1,225 @@
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll.config
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Logica.pdb
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\ZstdSharp.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Datos.pdb
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll.config
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Entidades.pdb
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll.config
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.pdb
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\obj\Debug\Logica.dll
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\Logica\obj\Debug\Logica.pdb
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll.config
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Logica.pdb
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\ZstdSharp.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Datos.pdb
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll.config
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Entidades.pdb
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll.config
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.pdb
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\obj\Debug\Logica.dll
+D:\Tecnicatura Analisis de Sistemas\2 Año\2 Cuatrimestre\Seminario 1\1er Cuatrimestre\TP_Final_Grupo1\Logica\obj\Debug\Logica.pdb
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll.config
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Logica.pdb
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\ZstdSharp.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Datos.pdb
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll.config
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Entidades.pdb
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll.config
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.pdb
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.dll
+C:\Users\jzagardi\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.pdb
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll.config
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Logica.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Logica.pdb
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\ZstdSharp.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Datos.pdb
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Datos.dll.config
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Entidades.pdb
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Entidades.dll.config
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.pdb
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Google.Protobuf.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\MySql.Data.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Buffers.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Memory.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.dll
+C:\Users\lopez\Downloads\TP_Final_Grupo1\Logica\obj\Debug\Logica.pdb
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Logica.dll.config
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Logica.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Logica.pdb
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Datos.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Entidades.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Google.Protobuf.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\MySql.Data.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Buffers.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Memory.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\ZstdSharp.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Datos.pdb
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Datos.dll.config
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Entidades.pdb
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Entidades.dll.config
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Google.Protobuf.pdb
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Google.Protobuf.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\MySql.Data.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Buffers.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Memory.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\obj\Debug\Logica.dll
+C:\Users\jzagardi\OneDrive - NTT DATA EMEAL\Escritorio\tp_Seminario\TP_Final_Grupo1_ConFormato\Logica\obj\Debug\Logica.pdb

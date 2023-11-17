@@ -1,0 +1,12 @@
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\bin\Debug\TP_Final_Grupo1.exe.config
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\bin\Debug\TP_Final_Grupo1.exe
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\bin\Debug\TP_Final_Grupo1.pdb
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.csproj.AssemblyReference.cache
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.Administrador.resources
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.frm_Login.resources
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.Properties.Resources.resources
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.Vendedor.resources
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.csproj.GenerateResource.cache
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.csproj.CoreCompileInputs.cache
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.exe
+D:\Desktop\Seminario\Grupo Seminario\TP Final\TP_Final_Grupo1\TP_Final_Grupo1\obj\Debug\TP_Final_Grupo1.pdb
